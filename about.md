@@ -1,7 +1,3 @@
-<!-- ---
-is_show_social_medias: true
---- -->
-
-# Hi there!
+# Hi there
 
 I'm Giventris Jeremia
