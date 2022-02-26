@@ -1,5 +1,5 @@
 ---
-show_downloads: true
+is_show_social_medias: true
 ---
 
 # About G.J
