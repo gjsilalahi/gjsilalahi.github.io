@@ -1,8 +1,7 @@
----
+<!-- ---
 is_show_social_medias: true
----
+--- -->
 
-# About G.J
+# Hi there!
 
-Hi there!
 I'm Giventris Jeremia
